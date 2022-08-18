@@ -1,2 +1,2 @@
-# blockchain
-INeuron Blockchain Projects
+# javascript
+javascript assignments
